@@ -7,9 +7,11 @@ Overview of the Analysis:
 
 Results
 -  For the month of the June the statistics are shown in the following image:
+
 ![image](https://user-images.githubusercontent.com/111200771/201561378-147bb585-aff5-4796-8138-532b80e448ca.png)
 
  - For the month of Decemeber the statistics are shown in the following image: 
+
 ![image](https://user-images.githubusercontent.com/111200771/201561391-cae1f079-2825-4206-b141-7122b38b8cc0.png)
 
 Summary: 
