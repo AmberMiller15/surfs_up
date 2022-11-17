@@ -15,3 +15,5 @@ In this challenge, data collected from weather stations in Oahu were collected a
 
 ## Summary: 
 This analysis of Oahu temperatures shows to potential investors that the temperatures in the June and December are fairly similar and temperatures are pretty consistent year round. In June the min temperature was 64 degrees and the highest temperature was 85 degrees and in December there was not much difference with a low temperature of 56 degrees and high temperature of 83 degrees. This difference between months is only 8 and 3 degrees respectively.
+
+Additional queries that can be done on the data given is on the precipitation for the months of both June and December as well as the amount of observations for each month. This information will give more complete information on the weather for each month and help predict the traffic the shop can expect to see during those months.
